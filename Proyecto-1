@@ -1,3 +1,9 @@
- 
-
-     
+INT AGE = 17;
+ CHAR GRADE = 'A';
+ BOOLEAN LATE = TRUE;
+ BYTE B =20;
+ LONG Num1 = 1234567;
+ SHORT NO = 10;
+ FLOAT K = (FLOAT) 12.5;
+ DOUBLE PI = 3.14;
+    
